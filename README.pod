@@ -6,6 +6,15 @@
 
 README.POD - A sample README in a POD format.
 
+=head1 VERSION
+
+Version 0.1
+
+=head1 SYNOPSIS
+
+  # Just copy and paste it
+  # Or do more sophisticated things using your favorite redactor or IDE!
+
 =head1 DESCRIPTION
 
 Detailed, in-depth desciption of this project.
@@ -15,5 +24,72 @@ This one is just a collection of boilerplates to be used and abused in other pro
 =head2 Introduction
 
 What is the idea behind this project, what it struggles to achieve. (This one just collects templates. That's it!)
+
+=head2 Documentation
+
+=head3 Building from source
+
+Some links, descriptions or commands...
+
+=head3 User guide
+
+Links to more documentation pages.
+
+=head3 Version history
+
+What has changed? 
+
+=head1 USED LIBRARIES AND DEPENDENCIES
+
+List of used libraries and dependencies, like...
+
+=over 4
+
+=item B<Perl>
+
+See more at L<http://perl.org/>
+
+=item B<Perl 6>
+
+Learn more at L<http://rakudo.org/>
+
+=back
+
+=head1 OPTIONS
+
+Any options related to this project.
+
+=head1 ARGUMENTS
+
+Maybe some arguments?
+
+C<B<./somescript> I<--option> argument>
+
+=over 4
+
+=item B<--v|version>
+
+Displays version of this project.
+
+=back
+
+=head1 SEE ALSO
+
+Some related information.
+
+Perl 6 code samples ilbrary can be found L<there|https://github.com/perl6/perl6-examples>.
+
+=head1 AUTHORS
+
+Vasyl, basilwashere[at]gmail.com, year-year
+
+=head1 CONTRIBUTING
+
+How to contribute to this project?
+
+=head1 COPYRIGHT AND LICENSE
+
+This project is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
 
 =cut
