@@ -1,0 +1,19 @@
+=pod
+
+=encoding UTF-8
+
+=head1 NAME
+
+README.POD - A sample README in a POD format.
+
+=head1 DESCRIPTION
+
+Detailed, in-depth desciption of this project.
+
+This one is just a collection of boilerplates to be used and abused in other projects.
+
+=head2 Introduction
+
+What is the idea behind this project, what it struggles to achieve. (This one just collects templates. That's it!)
+
+=cut
