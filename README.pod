@@ -17,7 +17,7 @@ Version 0.1
 
 =head1 DESCRIPTION
 
-Detailed, in-depth desciption of this project.
+Detailed, in-depth description of this project.
 
 This one is just a collection of boilerplates to be used and abused in other projects.
 
@@ -37,7 +37,7 @@ Links to more documentation pages.
 
 =head3 Version history
 
-What has changed? 
+What has changed?
 
 =head1 USED LIBRARIES AND DEPENDENCIES
 
@@ -77,7 +77,7 @@ Displays version of this project.
 
 Some related information.
 
-Perl 6 code samples ilbrary can be found L<there|https://github.com/perl6/perl6-examples>.
+Perl 6 code samples library can be found L<there|https://github.com/perl6/perl6-examples>.
 
 =head1 AUTHORS
 
